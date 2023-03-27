@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		},
+		{
+			"path": "../../../Downloads/js-debug/bundle-1"
+		},
+		{
+			"path": "../../../Downloads/js-debug/bundle-2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "bundle-1"
+	}
+}
